@@ -33921,7 +33921,7 @@ A.i4(A.c8("asset/X(color).png",k).c,a)
 s=t.w
 r=A.B(a,k,s).w.a.b*0.8/10
 q=A.B(a,k,s).w.a.a*0.5/10
-p=A.a([A.an(k,A.B(a,k,s).w.a.b*0.5/10,k),A.bk("\uc138\ubc88\uc9f8 \ubb38\uc81c!!",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.6/10,B.bN,k,B.E,k,k,!0,k,k,k,k,k,k,k,k),k),A.an(k,A.B(a,k,s).w.a.b*0.2/10,k),A.bk("10.252.42.122\ub294 host ip\uc774\ub2e4.",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.28/10,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),B.a_),A.an(k,A.B(a,k,s).w.a.b*0.3/10,k)],t.p)
+p=A.a([A.an(k,A.B(a,k,s).w.a.b*0.5/10,k),A.bk("\uc138\ubc88\uc9f8 \ubb38\uc81c!!",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.6/10,B.bN,k,B.E,k,k,!0,k,k,k,k,k,k,k,k),k),A.an(k,A.B(a,k,s).w.a.b*0.2/10,k),A.bk("10.252.42.122\ub294 \uacf5\uc778ip\uc774\ub2e4.",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.28/10,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),B.a_),A.an(k,A.B(a,k,s).w.a.b*0.3/10,k)],t.p)
 if(l.r){o=l.y?"\uc815\ub2f5\uc785\ub2c8\ub2e4!!":"\uc624\ub2f5\uc785\ub2c8\ub2e4\u315c\u315c"
 n=A.B(a,k,s).w
 m=l.y?B.aw:B.cb
