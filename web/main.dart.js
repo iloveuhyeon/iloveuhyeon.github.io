@@ -33972,13 +33972,13 @@ A.Wq.prototype={
 $0(){return this.a.di(!0)},
 $S:0}
 A.Wp.prototype={
-$0(){return this.a.dg(!0,!0)},
+$0(){return this.a.dg(!1,!0)},
 $S:0}
 A.Ws.prototype={
 $0(){return this.a.di(!1)},
 $S:0}
 A.Wr.prototype={
-$0(){return this.a.dg(!1,!1)},
+$0(){return this.a.dg(!0,!1)},
 $S:0}
 A.kk.prototype={
 al(){return new A.EH(B.p)}}
@@ -33991,7 +33991,7 @@ A.i4(A.c8("asset/X(color).png",k).c,a)
 s=t.w
 r=A.B(a,k,s).w.a.b*0.8/10
 q=A.B(a,k,s).w.a.a*0.5/10
-p=A.a([A.an(k,A.B(a,k,s).w.a.b*0.5/10,k),A.bk("\ub124\ubc88\uc9f8 \ubb38\uc81c!!",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.6/10,B.bN,k,B.E,k,k,!0,k,k,k,k,k,k,k,k),k),A.an(k,A.B(a,k,s).w.a.b*0.2/10,k),A.bk("\uc0c1\ud601\uc774\ub294 \uc8fc\uc740\uc774\ubcf4\ub2e4 \uba38\ub9ac\uac00 \uae38\ub2e4.",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.28/10,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),B.a_),A.an(k,A.B(a,k,s).w.a.b*0.3/10,k)],t.p)
+p=A.a([A.an(k,A.B(a,k,s).w.a.b*0.5/10,k),A.bk("\ub124\ubc88\uc9f8 \ubb38\uc81c!!",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.6/10,B.bN,k,B.E,k,k,!0,k,k,k,k,k,k,k,k),k),A.an(k,A.B(a,k,s).w.a.b*0.2/10,k),A.bk("\ub9ac\ub205\uc2a4 \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub370\uc774\ud130\ub294 \ub3d9\uc801\ud560\ub2f9\ub418\ub294 \ubc30\uc5f4\uc774 \uc800\uc7a5\ub41c\ub2e4",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.28/10,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),B.a_),A.an(k,A.B(a,k,s).w.a.b*0.3/10,k)],t.p)
 if(l.r){o=l.y?"\uc815\ub2f5\uc785\ub2c8\ub2e4!!":"\uc624\ub2f5\uc785\ub2c8\ub2e4\u315c\u315c"
 n=A.B(a,k,s).w
 m=l.y?B.aw:B.cb
@@ -34042,13 +34042,13 @@ A.Wy.prototype={
 $0(){return this.a.di(!0)},
 $S:0}
 A.Wx.prototype={
-$0(){return this.a.dg(!0,!0)},
+$0(){return this.a.dg(!1,!0)},
 $S:0}
 A.WA.prototype={
 $0(){return this.a.di(!1)},
 $S:0}
 A.Wz.prototype={
-$0(){return this.a.dg(!1,!1)},
+$0(){return this.a.dg(!0,!1)},
 $S:0}
 A.kl.prototype={
 al(){return new A.EI(B.p)}}
@@ -34061,7 +34061,7 @@ A.i4(A.c8("asset/X(color).png",k).c,a)
 s=t.w
 r=A.B(a,k,s).w.a.b*0.8/10
 q=A.B(a,k,s).w.a.a*0.5/10
-p=A.a([A.an(k,A.B(a,k,s).w.a.b*0.5/10,k),A.bk("\ub2e4\uc12f\ubc88\uc9f8 \ubb38\uc81c!!",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.6/10,B.bN,k,B.E,k,k,!0,k,k,k,k,k,k,k,k),k),A.an(k,A.B(a,k,s).w.a.b*0.2/10,k),A.bk("\ud604\uc774\ub294 \uc62c\ud574\uc758 \ubd80\ud68c\uc7a5\uc774\ub2e4.",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.28/10,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),B.a_),A.an(k,A.B(a,k,s).w.a.b*0.3/10,k)],t.p)
+p=A.a([A.an(k,A.B(a,k,s).w.a.b*0.5/10,k),A.bk("\ub2e4\uc12f\ubc88\uc9f8 \ubb38\uc81c!!",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.6/10,B.bN,k,B.E,k,k,!0,k,k,k,k,k,k,k,k),k),A.an(k,A.B(a,k,s).w.a.b*0.2/10,k),A.bk("\uae4c\ub098\ub9ac\ub294 DDoS\uc744 \ub9c9\uae30\uc704\ud55c \ubc29\ubc95\uc774 \uc544\ub2c8\ub2e4.",A.b_(k,k,k,k,k,k,k,k,k,k,k,A.B(a,k,s).w.a.b*0.28/10,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),B.a_),A.an(k,A.B(a,k,s).w.a.b*0.3/10,k)],t.p)
 if(l.r){o=l.y?"\uc815\ub2f5\uc785\ub2c8\ub2e4!!":"\uc624\ub2f5\uc785\ub2c8\ub2e4\u315c\u315c"
 n=A.B(a,k,s).w
 m=l.y?B.aw:B.cb
