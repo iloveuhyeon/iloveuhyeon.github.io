@@ -8173,11 +8173,10 @@ _.b=b
 _.d=_.c=0
 _.$ti=c},
 ze(){var s=t.S
-s=new A.Pp(A.az([1,"Zero-Day Exploit\uc740 \uc774\ubbf8 \uc54c\ub824\uc9c4 \ucde8\uc57d\uc810\uc744 \uc774\uc6a9\ud558\ub294 \uacf5\uaca9 \uae30\uc220\uc774\ub2e4.",2,"4\uacc4\uce35\uc740 \ub124\ud2b8\uc6cc\ud06c\uacc4\uce35\uc774\ub2e4.",3,"10.252.42.122\ub294 \uacf5\uc778ip\uc774\ub2e4.",4,"\ub9ac\ub205\uc2a4 \uba54\ubaa8\ub9ac\uc5d0\uc11c \ub370\uc774\ud130\ub294 \ub3d9\uc801\ud560\ub2f9\ub418\ub294 \ubc30\uc5f4\uc774 \uc800\uc7a5\ub41c\ub2e4.",5,"\uce74\ub098\ub9ac(Canary)\ub294 DDoS\uc744 \ub9c9\uae30\uc704\ud55c \ubc29\ubc95\uc774 \uc544\ub2c8\ub2e4.",6,"brute foce\ub294 \ubb34\ucc28\ubcc4 \ub300\uc785 \uacf5\uaca9\uc73c\ub85c, \uc0ac\uc6a9\uc790\uac00 \uc785\ub825\ud560 \uc218 \uc788\ub294 \ubaa8\ub4e0 \uac12\uc744 \uc785\ub825\ud558\ub294 \uac83\uc774\ub2e4.",7,"SFP\uc758 \ud06c\uae30\ub294 6byte\uc774\ub2e4.",8,"192.168.0.1/24 \uc758 \uc11c\ube0c\ub137\ub9c8\uc2a4\ud06c \uc8fc\uc18c\ub294 255.255.255.128\uc774\ub2e4.",9,"HTTPS\ub294 \ub370\uc774\ud130\ub97c \uc554\ud638\ud654\ud55c\ub2e4.",10,"Malware \ub294 \ubc31\uc2e0 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uc758\ubbf8\ud55c\ub2e4."],s,t.N),A.az([1,!1,2,!1,3,!1,4,!1,5,!0,6,!0,7,!1,8,!1,9,!0,10,!1],s,t.y))
+s=new A.Pp(A.az([1,"Zero-Day Exploit\uc740 \uc774\ubbf8 \uc54c\ub824\uc9c4 \ucde8\uc57d\uc810\uc744 \uc774\uc6a9\ud558\ub294 \uacf5\uaca9 \uae30\uc220\uc774\ub2e4.",2,"4\uacc4\uce35\uc740 \ub124\ud2b8\uc6cc\ud06c\uacc4\uce35\uc774\ub2e4.",3,"10.252.42.122\ub294 \uacf5\uc778ip\uc774\ub2e4.",4,"\ub9ac\ub205\uc2a4 \uba54\ubaa8\ub9ac \uad6c\uc870 \uc0c1 Date Sagment \uc601\uc5ed\uc5d0\uc11c\ub294 \ub3d9\uc801\ud560\ub2f9\ub418\ub294 \ubc30\uc5f4\uc774 \uc800\uc7a5\ub41c\ub2e4.",5,"\uce74\ub098\ub9ac(Canary)\ub294 DDoS\ub97c \ub9c9\uae30\uc704\ud55c \ubcf4\ud638\uae30\ubc95\uc774\ub2e4.",6,"brute foce\ub294 \ubb34\ucc28\ubcc4 \ub300\uc785 \uacf5\uaca9\uc73c\ub85c, \uc0ac\uc6a9\uc790\uac00 \uc785\ub825\ud560 \uc218 \uc788\ub294 \ubaa8\ub4e0 \uac12\uc744 \uc785\ub825\ud558\ub294 \uac83\uc774\ub2e4.",7,"SFP\uc758 \ud06c\uae30\ub294 6byte\uc774\ub2e4.",8,"192.168.0.1/24 \uc758 \uc11c\ube0c\ub137\ub9c8\uc2a4\ud06c \uc8fc\uc18c\ub294 255.255.255.128\uc774\ub2e4.",9,"HTTPS\ub294 \ub370\uc774\ud130\ub97c \uc554\ud638\ud654\ud55c\ub2e4.",10,"Malware \ub294 \ubc31\uc2e0 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uc758\ubbf8\ud55c\ub2e4.",11,"\ubca8-\ub77c\ud30c\ub4c8\ub77c \ubaa8\ub378\uc740 \uc624\uc9c1 \uae30\ubc00\uc131\uc744 \uac15\uc870\ud558\ub294 \uad70\uc0ac\uc6a9 \ubcf4\uc548 \uc815\ucc45\uc774\ub2e4.",12,"\ubcf4\uc548\uc758 3 \uc694\uc18c\ub294 \ubb34\uacb0\uc131,\uac00\uc6a9\uc131,\uae30\ubc00\uc131 \uc774\ub2e4.",13,"\uce5c\uad6c \ucef4\ud4e8\ud130\ub97c \uac11\uc790\uae30 \uaebc\ubc84\ub9ac\ub294 \uac83\uc740 \ud574\ud0b9\uc774\ub77c\uace0 \ubcfc \uc218 \uc788\ub2e4.",14,"CSRF\ub294 client side request forgery\uc758 \uc57d\uc790\uc774\ub2e4.",15,"\uc124\uc815\ub41c \ubc84\ud37c\uc758 \uacf5\uac04\uc744 \uce68\ubc94\ud558\uc5ec \uc785\ub825\uac12\uc744 \ubc1b\uc73c\uba74 \ubc84\ud37c \uc624\ubc84 \ud50c\ub85c\uc6b0(buffer over flow)\uac00 \ubc1c\uc0dd\ud560 \uc218 \uc788\ub2e4."],s,t.N),A.az([1,!1,2,!1,3,!1,4,!1,5,!1,6,!0,7,!1,8,!1,9,!0,10,!1,11,!0,12,!0,13,!0,14,!1,15,!0],s,t.y))
 s.J_()
 return s},
-Pp:function Pp(a,b){this.a=0
-this.b=a
+Pp:function Pp(a,b){this.b=a
 this.c=b},
 ahI(){var s,r,q,p,o,n
 if($.b_==null)A.adU()
@@ -33658,9 +33657,7 @@ if(p<q){k=j.ni(p)
 if(s.$2(a,k)>0){j.b[b]=k
 b=p}}j.b[b]=a}}
 A.Pp.prototype={
-J_(){var s,r,q
-this.a=this.b.a
-for(;s=$.a3q,r=s.a,q=this.a,r<q;){s=B.vs.UR(q)
+J_(){for(;s=$.a3q,s.a<10;){var s=B.vs.UR(10)
 $.a3q.C(0,s+1)}$.a_l=A.a3(s,!0,A.l(s).c)}}
 A.yg.prototype={
 T(a){A.ze()
@@ -33679,18 +33676,19 @@ break
 default:$.GX.b=5
 s.c=r
 break}},
-T(a){var s,r,q,p,o=null
+T(a){var s,r,q,p,o=null,n="KCC"
 this.RI()
 s=t.w
 r=A.aq(a,o,s).w.a.b/10
 q=A.aq(a,o,s).w.a.a/10
 p=t.r
-return A.a_s(B.eV,new A.hi(new A.bl(q,r,q,r),A.vI(A.Zr(A.a([A.cr(o,A.aq(a,o,s).w.a.b/10,o),A.hz("\ubcf8\uc778\uc758 \uc810\uc218\ub294...??",A.d3(o,o,o,o,o,o,o,o,o,o,o,A.aq(a,o,s).w.a.b*0.2/10,o,o,B.aJ,o,o,!0,o,o,o,o,o,o,o,o),o),A.cr(o,A.aq(a,o,s).w.a.b*0.3/10,o),A.Qn(A.a([A.hz(""+$.Kf,A.d3(o,o,o,o,o,o,o,o,o,o,o,A.aq(a,o,s).w.a.b/10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),A.cr(o,o,A.aq(a,o,s).w.a.b*0.05/10),A.hz("\uc810",A.d3(o,o,o,o,o,o,o,o,o,o,o,A.aq(a,o,s).w.a.b*0.2/10,o,o,B.aJ,o,o,!0,o,o,o,o,o,o,o,o),o)],p),B.aG,B.eU,B.c6),A.cr(o,A.aq(a,o,s).w.a.b*0.8/10,o),A.oP("asset/"+A.f($.GX.am())+".png",A.aq(a,o,s).w.a.b*3/10),A.cr(o,A.aq(a,o,s).w.a.b*0.1/10,o),A.hz(this.c,A.d3(o,o,o,o,o,o,o,o,o,o,o,A.aq(a,o,s).w.a.b*0.2/10,o,o,B.B,o,o,!0,o,o,o,o,o,o,o,o),B.bl)],p),B.aG),o,o),o))}}
+return A.a_s(B.eV,new A.hi(new A.bl(q,r,q,r),A.vI(A.Zr(A.a([A.cr(o,A.aq(a,o,s).w.a.b/10,o),A.hz("\ubcf8\uc778\uc758 \uc810\uc218\ub294...??",A.d3(o,o,o,o,o,o,o,o,n,o,o,A.aq(a,o,s).w.a.b*0.3/10,o,o,B.aJ,o,o,!0,o,o,o,o,o,o,o,o),o),A.cr(o,A.aq(a,o,s).w.a.b*0.3/10,o),A.Qn(A.a([A.hz(""+$.Kf,A.d3(o,o,o,o,o,o,o,o,n,o,o,A.aq(a,o,s).w.a.b/10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),A.cr(o,o,A.aq(a,o,s).w.a.b*0.05/10),A.hz("\uc810",A.d3(o,o,o,o,o,o,o,o,n,o,o,A.aq(a,o,s).w.a.b*0.3/10,o,o,B.aJ,o,o,!0,o,o,o,o,o,o,o,o),o)],p),B.aG,B.eU,B.c6),A.cr(o,A.aq(a,o,s).w.a.b*0.8/10,o),A.oP("asset/"+A.f($.GX.am())+".png",A.aq(a,o,s).w.a.b*3/10),A.cr(o,A.aq(a,o,s).w.a.b*0.1/10,o),A.hz(this.c,A.d3(o,o,o,o,o,o,o,o,n,o,o,A.aq(a,o,s).w.a.b*0.3/10,o,o,B.B,o,o,!0,o,o,o,o,o,o,o,o),B.bl)],p),B.aG),o,o),o))}}
 A.ph.prototype={
-ao(){return new A.xX("\ubb38\uc81c\ub294 \ucd1d "+A.ze().a+"\ubb38\uc81c\uc785\ub2c8\ub2e4!!",B.q)}}
+ao(){A.ze()
+return new A.xX("\ubb38\uc81c\ub294 \ucd1d 10\ubb38\uc81c\uc785\ub2c8\ub2e4!!",B.q)}}
 A.xX.prototype={
 T(a){var s=null,r=t.w,q=A.aq(a,s,r).w.a.b/10,p=t.r
-return A.a_s(B.eV,new A.hi(new A.bl(0,q,0,q),A.vI(A.Zr(A.a([A.cr(s,A.aq(a,s,r).w.a.b/10,s),A.Qn(A.a([A.oP("asset/security_quiz.png",A.aq(a,s,r).w.a.b*0.6/10)],p),B.aG,B.eU,B.c6),A.cr(s,A.aq(a,s,r).w.a.b*2/10,s),A.xi(s,new A.oL(B.xy,A.aq(a,s,r).w.a.b*1.5/10,s),B.ax,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.NC(a),s,s,s),A.cr(s,A.aq(a,s,r).w.a.b*1.5/10,s),A.hz(this.d,A.d3(s,s,s,s,s,s,s,s,s,s,s,A.aq(a,s,r).w.a.b*0.2/10,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),s)],p),B.aG),s,s),s))}}
+return A.a_s(B.eV,new A.hi(new A.bl(0,q,0,q),A.vI(A.Zr(A.a([A.cr(s,A.aq(a,s,r).w.a.b/10,s),A.Qn(A.a([A.oP("asset/security_quiz.png",A.aq(a,s,r).w.a.b*0.6/10)],p),B.aG,B.eU,B.c6),A.cr(s,A.aq(a,s,r).w.a.b*2/10,s),A.xi(s,new A.oL(B.xy,A.aq(a,s,r).w.a.b*1.5/10,s),B.ax,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.NC(a),s,s,s),A.cr(s,A.aq(a,s,r).w.a.b*1.5/10,s),A.hz(this.d,A.d3(s,s,s,s,s,s,s,s,"KCC",s,s,A.aq(a,s,r).w.a.b*0.3/10,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),s)],p),B.aG),s,s),s))}}
 A.NC.prototype={
 $0(){var s=A.NI(new A.NB(),null,t.z)
 A.yn(this.a).ko(s)},
@@ -33703,7 +33701,7 @@ ao(){return new A.Es(A.ze().c.k(0,$.a_l[$.tH-1]),B.q)}}
 A.Es.prototype={
 E_(a){this.av(new A.W5(this,a))},
 CA(a){this.av(new A.W4(this,a))},
-T(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null
+T(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="KCC"
 A.a6v(A.oP("asset/O(color).png",c).c,a)
 A.a6v(A.oP("asset/X(color).png",c).c,a)
 s=t.w
@@ -33711,27 +33709,27 @@ r=A.aq(a,c,s).w
 q=A.aq(a,c,s).w
 p=A.aq(a,c,s).w
 o=A.cr(c,A.aq(a,c,s).w.a.b*0.5/10,c)
-n=A.hz(""+$.tH+"\ubc88 \ubb38\uc81c!!",A.d3(c,c,c,c,c,c,c,c,c,c,c,A.aq(a,c,s).w.a.b*0.6/10,B.xp,c,B.aJ,c,c,!0,c,c,c,c,c,c,c,c),c)
+n=A.hz(""+$.tH+"\ubc88 \ubb38\uc81c!!",A.d3(c,c,c,c,c,c,c,c,b,c,c,A.aq(a,c,s).w.a.b*0.6/10,B.xp,c,B.aJ,c,c,!0,c,c,c,c,c,c,c,c),c)
 m=A.cr(c,A.aq(a,c,s).w.a.b*0.2/10,c)
-l=A.hz(A.f(A.ze().b.k(0,$.a_l[$.tH-1])),A.d3(c,c,c,c,c,c,c,c,c,c,c,A.aq(a,c,s).w.a.b*0.28/10,c,c,B.B,c,c,!0,c,c,c,c,c,c,c,c),B.bl)
+l=A.hz(A.f(A.ze().b.k(0,$.a_l[$.tH-1])),A.d3(c,c,c,c,c,c,c,c,b,c,c,A.aq(a,c,s).w.a.b*0.28/10,c,c,B.B,c,c,!0,c,c,c,c,c,c,c,c),B.bl)
 k=A.cr(c,A.aq(a,c,s).w.a.b*0.3/10,c)
 if(d.r)j=d.w?"\uc815\ub2f5\uc785\ub2c8\ub2e4!!":"\uc624\ub2f5\uc785\ub2c8\ub2e4\u315c\u315c"
 else j=""
 i=A.aq(a,c,s).w
 h=d.w?B.c7:B.Bp
-i=A.hz(j,A.d3(c,c,h,c,c,c,c,c,c,c,c,i.a.b*0.4/10,c,c,B.aJ,c,c,!0,c,c,c,c,c,c,c,c),c)
+i=A.hz(j,A.d3(c,c,h,c,c,c,c,c,b,c,c,i.a.b*0.4/10,c,c,B.aJ,c,c,!0,c,c,c,c,c,c,c,c),c)
 h=A.cr(c,A.aq(a,c,s).w.a.b*0.2/10,c)
 j=A.xi(c,A.oP("asset/"+d.d+".png",A.aq(a,c,s).w.a.b*1.8/10),B.ax,!1,c,new A.W_(d),c,c,c,c,c,c,c,c,c,c,c,c,new A.W0(d),c,c,c)
 g=A.cr(c,c,A.aq(a,c,s).w.a.a*0.3/10)
 f=A.aq(a,c,s).w
 e=t.r
 e=A.a([o,n,m,l,k,i,h,A.Qn(A.a([j,g,A.Zw(c,c,B.l,c,A.aq(a,c,s).w.a.b*3.5/10,c,c,f.a.a*0.08/10),A.cr(c,c,A.aq(a,c,s).w.a.a*0.3/10),A.xi(c,A.oP("asset/"+d.e+".png",A.aq(a,c,s).w.a.b*1.8/10),B.ax,!1,c,new A.W1(d),c,c,c,c,c,c,c,c,c,c,c,c,new A.W2(d),c,c,c)],e),B.aG,B.eU,B.c6),A.cr(c,A.aq(a,c,s).w.a.b*0.3/10,c)],e)
-if(d.f)e.push(A.hz("\uc815\ub2f5\uc744 \uc120\ud0dd\ud558\uc2dc\ub824\uba74 \ub354\ube14\ud0ed\ud558\uc138\uc694..!!",A.d3(c,c,c,c,c,c,c,c,c,c,c,A.aq(a,c,s).w.a.b*0.2/10,c,c,B.B,c,c,!0,c,c,c,c,c,c,c,c),B.bl))
+if(d.f)e.push(A.hz("\uc815\ub2f5\uc744 \uc120\ud0dd\ud558\uc2dc\ub824\uba74 \ub354\ube14 \ud074\ub9ad\ud558\uc138\uc694..!!",A.d3(c,c,c,c,c,c,c,c,c,c,c,A.aq(a,c,s).w.a.b*0.2/10,c,c,B.B,c,c,!0,c,c,c,c,c,c,c,c),B.bl))
 e.push(A.cr(c,A.aq(a,c,s).w.a.b*0.5/10,c))
 if(d.r){o=A.Zk(10)
 n=A.aq(a,c,s).w
 m=A.aq(a,c,s).w
-e.push(A.a2v(!1,!0,A.Zw(c,A.vI(A.hz("\ub2e4\uc74c",A.d3(c,c,c,c,c,c,c,c,c,c,c,A.aq(a,c,s).w.a.b*0.3/10,c,c,B.aJ,c,c,!0,c,c,c,c,c,c,c,c),c),c,c),c,new A.fO(B.h,c,c,o,c,c,B.by),m.a.b*0.8/10,c,c,n.a.a*7/10),c,!0,c,c,c,c,c,c,c,c,c,new A.W3(a),c))}return A.a_s(B.eV,new A.hi(new A.bl(q.a.a*0.5/10,r.a.b*0.8/10,p.a.a*0.5/10,0),A.cr(A.Zr(e,B.aG),c,1/0),c))}}
+e.push(A.a2v(!1,!0,A.Zw(c,A.vI(A.hz("\ub2e4\uc74c",A.d3(c,c,c,c,c,c,c,c,b,c,c,A.aq(a,c,s).w.a.b*0.3/10,c,c,B.aJ,c,c,!0,c,c,c,c,c,c,c,c),c),c,c),c,new A.fO(B.h,c,c,o,c,c,B.by),m.a.b*0.8/10,c,c,n.a.a*7/10),c,!0,c,c,c,c,c,c,c,c,c,new A.W3(a),c))}return A.a_s(B.eV,new A.hi(new A.bl(q.a.a*0.5/10,r.a.b*0.8/10,p.a.a*0.5/10,0),A.cr(A.Zr(e,B.aG),c,1/0),c))}}
 A.W5.prototype={
 $0(){var s,r=this.a
 if(r.r)return
@@ -33763,11 +33761,14 @@ A.W1.prototype={
 $0(){this.a.CA(!1)},
 $S:0}
 A.W3.prototype={
-$0(){var s=this.a,r=t.z
-if($.tH===A.ze().a){r=A.NI(new A.VY(),null,r)
-A.yn(s).ko(r)}else{$.tH=$.tH+1
-r=A.NI(new A.VZ(),null,r)
-A.yn(s).ko(r)}},
+$0(){var s,r,q=$.tH
+A.ze()
+s=this.a
+r=t.z
+if(q===10){q=A.NI(new A.VY(),null,r)
+A.yn(s).ko(q)}else{$.tH=$.tH+1
+q=A.NI(new A.VZ(),null,r)
+A.yn(s).ko(q)}},
 $S:0}
 A.VY.prototype={
 $1(a){return new A.lk(null)},
